@@ -1,4 +1,4 @@
-# HackRixeX | Finance Track
+# HackRiceX | Finance Track
 
 ## Track Description
 
